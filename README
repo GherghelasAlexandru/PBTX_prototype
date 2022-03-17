@@ -1,0 +1,5 @@
+#PBTX_prototype
+
+#### The goal of this project is to build a prototype which would send PBTX transactions from an ESP32 microcontroller.
+
+### Once available, such software can be used fo sending all kinds of IoT mesurements and secure data from small device.
